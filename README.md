@@ -4,6 +4,8 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 
 ![Text box that says name my pet with an icon of a dog](https://user-images.githubusercontent.com/10623307/213887080-b2bc4645-7fdb-4dbd-ae42-efce00d0dc29.png)
 
+## API Key Setup
+Copy your secret API key and set it as the OPENAI_API_KEY in your newly created .env file.
 
 ## Setup
 
